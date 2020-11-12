@@ -1,6 +1,6 @@
 # r-shinny-demo
 
-Download [Docker]()
+Download [Docker](https://www.docker.com/products/docker-desktop)
 ```
 * cd C:\
 * git clone https://github.com/paulius-kazokas/r-shinny-demo.git
@@ -10,7 +10,7 @@ Download [Docker]()
 ```
 - create container
 <img src="https://drive.google.com/uc?export=view&id=1mFWgyXlPTqvHcCCQEBLkMcxFzepCH4kS">
-- reach application via __localhost:8080__
+- reach application via localhost:8080
 <img src="https://drive.google.com/uc?export=view&id=1-7DzSKUstaH6ds4b-iuPT9vLFlvTFoz8">
 
 ```
